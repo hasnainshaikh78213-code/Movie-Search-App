@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import MovieCard from './components/MovieCard';
+import MovieCard from '../../components/MovieCard';
 
 const API_KEY = "f3ea7a80"; 
 
